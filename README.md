@@ -11,7 +11,7 @@ class AboutMe:
 Hey there! I'm a Backend Developer on a mission to craft exceptional digital experiences and not afraid to try something new.
 <div style="display:flex;justify-content:center;">
 
-[![Website](https://img.shields.io/badge/Website-white?style=for-the-badge&logo=googlechrome&logoColor=orange)](https://vardaanshukla.in) [![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/vardaan-shukla)
+[![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/vardaan-shukla) [![Website](https://img.shields.io/badge/Website-white?style=for-the-badge&logo=googlechrome&logoColor=orange)](https://vardaanshukla.in) [![Website](https://img.shields.io/badge/Calendly-blue?style=for-the-badge&logo=calendly&logoColor=fff)](https://calendly.com/vardaanshukla/)
 </div>
 
 ## Latest Blogs
